@@ -46,6 +46,7 @@ button:hover{
   box-shadow: 0 5px 10px rgb(94, 92, 92);
 }
 #name{
+  font-size: 20px;
   margin-bottom:30px;
   color:rgb(38, 37, 37);
   padding-top:0;
